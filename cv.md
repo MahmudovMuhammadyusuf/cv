@@ -8,10 +8,10 @@
 
 #### contact information  
 
-**Phone:** +998904072464
+ - **Phone:** +998904072464
 
 
- __email:__mahmudovmuhammadyusuf27@gmail.com
+ * __email:__mahmudovmuhammadyusuf27@gmail.com
 
 
   #### Skills 
@@ -21,3 +21,4 @@
   * _C#_
 
    ********
+
